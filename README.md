@@ -1,6 +1,6 @@
 
 # Kuba_Army_Hospital_Contacts
-<p align="center"><img src="https://img.icons8.com/android/480/000000/contacts.png"/></p>
+<p align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/69/69840.svg"/></p>
 
 CRUD System For Kuba Contacts With Flexible Search
 Used For Helping Employees  To Contact EachOther.
@@ -11,12 +11,13 @@ Used For Helping Employees  To Contact EachOther.
 * Add Php To System Environment.
 * Install Composer.
 * Run (Composer Install) To Install Laravel Dependencies.
-* Use Commands (php artisan migarte& php artisan db:seed) And You Ready To Use The CRUD System.
+* Install Npm.
+* Run Npm Install.
 
 ### Prerequisites
 
 Recommended Apache&Mysql(Xampp).
- Php 7.4
+Php 7.4
 
 ## Built With
 
@@ -27,9 +28,8 @@ Recommended Apache&Mysql(Xampp).
 ## Authors
 
 * [OmarHossamEldinKandil](https://www.facebook.com/kande1l.omar) 
-* [MoamenAhmedEl-Nashar](https://github.com/MoamenAhmedEl-Nashar)
 
 ## Acknowledgments
 
-* Systems and Information Branch Medical Complex Kobry Elkoba
+* Fatora
 

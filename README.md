@@ -1,8 +1,9 @@
 
 # Kuba_Army_Hospital_Contacts
-<p align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/69/69840.svg" width='25%'></p>
+<p align="center"><img src="https://img.icons8.com/android/480/000000/contacts.png"/></p>
 
-* Accounting And AccessControll App With Integrated FingerPrint Supported By WebApp.
+CRUD System For Kuba Contacts With Flexible Search
+Used For Helping Employees  To Contact EachOther.
 
 ## Getting Started
 
@@ -10,13 +11,12 @@
 * Add Php To System Environment.
 * Install Composer.
 * Run (Composer Install) To Install Laravel Dependencies.
-* Install Npm.
-* Run Npm Install.
+* Use Commands (php artisan migarte& php artisan db:seed) And You Ready To Use The CRUD System.
 
 ### Prerequisites
 
 Recommended Apache&Mysql(Xampp).
-Php 7.4
+ Php 7.4
 
 ## Built With
 
@@ -27,10 +27,9 @@ Php 7.4
 ## Authors
 
 * [OmarHossamEldinKandil](https://www.facebook.com/kande1l.omar) 
-* [Moamen](https://github.com/MoamenAhmedEl-Nashar)
-
+* [MoamenAhmedEl-Nashar](https://github.com/MoamenAhmedEl-Nashar)
 
 ## Acknowledgments
 
-* Fatora
+* Systems and Information Branch Medical Complex Kobry Elkoba
 

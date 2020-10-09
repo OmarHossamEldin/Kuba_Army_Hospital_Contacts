@@ -1,6 +1,6 @@
 
 # Kuba_Army_Hospital_Contacts
-<p align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/69/69840.svg"/></p>
+<p align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/69/69840.svg" width='25%></p>
 
 CRUD System For Kuba Contacts With Flexible Search
 Used For Helping Employees  To Contact EachOther.
